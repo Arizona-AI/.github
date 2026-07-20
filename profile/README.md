@@ -17,7 +17,3 @@
 * **Telegram канал:** [Arizona AI | Ecosystem](https://t.me/arizona_ai_ru)
 * **Discord сервер:** [Arizona AI | Ecosystem](https://discord.gg/gCzyuvwSH6)
 * **Сообщество ВКонтакте:** [Arizona AI | Ecosystem](https://vk.com/arizona_ai_ru)
-
----
-
-* **Прямые контакты с разработчиком:** [Александр Булгаков | Telegram](https://t.me/alekssbulgakov)
