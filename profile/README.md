@@ -1,3 +1,7 @@
+<img src="https://cloud.onlysq.me/file/PimsT0r?mode=view" />
+
+---
+
 # Arizona AI | Ecosystem
 
 <img src="https://img.shields.io/badge/Ecosystem-Arizona--AI-orange?style=for-the-badge" alt="Ecosystem Badge" />
