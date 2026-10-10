@@ -1,4 +1,4 @@
-<img src="https://cloud.onlysq.me/file/PimsT0r?mode=view" />
+<img src="https://raw.githubusercontent.com/Arizona-AI/.github/refs/heads/main/banner.png" />
 
 ---
 
